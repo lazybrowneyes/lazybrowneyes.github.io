@@ -1,0 +1,14 @@
+---
+bg: "tree.jpg"
+layout: post
+crawlertitle: "Chihiro Takei"
+title: ""
+summary: ""
+---
+
+<article markdown="1" class="post-content">
+ {% capture landing_content %}
+    {% include landing_content.md %}
+  {% endcapture %}
+  {{ landing_content | unindent | markdownify }}
+</article>
