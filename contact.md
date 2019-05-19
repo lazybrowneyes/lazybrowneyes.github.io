@@ -1,5 +1,5 @@
 ---
-bg: "risu.jpg"
+bg: "risu.JPG"
 layout: page
 title: "Contact"
 crawlertitle: "Contact"
